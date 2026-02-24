@@ -12,7 +12,5 @@ This project bridges pure mathematics and computer vision:
 **Statistical Analysis:** Calculating cumulative variance to determine the optimal number of components ($k$).
 ## 🛠️ Tech Stack
 **Language:** Python 3.14.3
-
 **Core Libraries:** NumPy (Linear Algebra), Matplotlib (Visualization)
-
 **Data:** sklearn.datasets (Olivetti Faces)
